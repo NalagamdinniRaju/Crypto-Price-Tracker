@@ -1,0 +1,29 @@
+### Test /stats API
+GET http://localhost:5000/stats?coin=bitcoin
+Content-Type: application/json
+
+###
+
+GET http://localhost:5000/stats?coin=matic-network
+Content-Type: application/json
+
+###
+
+GET http://localhost:5000/stats?coin=ethereum
+Content-Type: application/json
+
+###
+
+### Test /deviation API
+GET http://localhost:5000/deviation?coin=bitcoin
+Content-Type: application/json
+
+###
+
+GET http://localhost:5000/deviation?coin=matic-network
+Content-Type: application/json
+
+###
+
+GET http://localhost:5000/deviation?coin=ethereum
+Content-Type: application/json
