@@ -31,7 +31,8 @@ A Node.js application that tracks cryptocurrency prices using CoinGecko API and 
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/crypto-price-tracker.git](https://github.com/NalagamdinniRaju/Crypto-Price-Tracker.git)
+git clone
+(https://github.com/NalagamdinniRaju/Crypto-Price-Tracker.git)
 cd crypto-price-tracker
 ```
 
